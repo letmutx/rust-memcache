@@ -10,6 +10,6 @@ keywords = ["memcache", "memcached", "driver", "cache", "database"]
 
 [dependencies]
 byteorder = "1"
-url = "1"
+url = "2"
 rand = "0.7"
 enum_dispatch = "0.1"
